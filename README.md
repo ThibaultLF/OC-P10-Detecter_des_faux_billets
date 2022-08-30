@@ -88,7 +88,7 @@ docker-compose up -d --build
 L'API a été déployé à l'aide d'**Heroku** en utilisant le Dockerfile et le fichier heroku.yml, l'application Streamlit a été déployée en utilisant **Streamlit cloud**. Voyons comment faire:
 
 <details>
- <summary><b>Déploiement de l'API à l'aide d'**Heroku**</b></summary>
+ <summary><b>Déploiement de l'API à l'aide d'Heroku</b></summary>
 
 *Prérequis:*
 - Git et Heroku cli installés sur l'ordinateur ainsi qu'un compte Heroku.
