@@ -48,7 +48,7 @@ La *régression logistique* obtient de meilleurs résultats que *K-Means*. Nous 
   
 ## Streamlit app Demo
 
-
+![App détection billet](https://user-images.githubusercontent.com/110832782/187501309-3bc58e4a-4b0d-4e36-bdde-344245c4c4ca.gif)
 
 ## Faire tourner l'API et l'APP Streamlit en local
 
@@ -145,6 +145,9 @@ git clone https://github.com/ThibaultLF/OC-P10-Detecter_des_faux_billets.git
 2. Aller sur https://streamlit.io/cloud
 
 3. Créer une nouvelle application avec le bouton *new app* et choisir le répertoire que vous avez cloné, puis le fichier **"streamlit_app.py"**. Enfin cliquer sur déployer.
+
+![streamlit_sharing_silent](https://user-images.githubusercontent.com/110832782/187501406-9894393a-730d-46e5-afe1-77c97217bf85.gif)
+
 
 </details>
 
