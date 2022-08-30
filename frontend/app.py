@@ -112,5 +112,5 @@ if st.button("Analyses"):
                 col2.write(data)
             col2.download_button(label = "Télécharger", data= down2, file_name='Billets.csv', help="fichier csv encodé en *utf-8*")
         
-st.write("""Le notebook du modèle, les scripts FastAPI, Streamlit et Dockerfiles sont disponibles sur [GitHub](lien).""")
+st.write("""Le notebook du modèle, les scripts FastAPI, Streamlit et Dockerfiles sont disponibles sur [GitHub](https://github.com/ThibaultLF/OC-P10-Deteter_des_faux_billets).""")
 st.markdown("""<div style="text-align: right;">Thibault Lelievre</div>""", unsafe_allow_html=True)
