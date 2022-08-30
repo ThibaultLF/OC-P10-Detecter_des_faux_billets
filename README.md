@@ -7,19 +7,19 @@
 ![hosted](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=docker&logoColor=white)
 
-App de détection de faux billets créée via Streamlit, FastAPI et Docker.
-Streamlit app: https://thibaultlf-oc-p10-deteter-des-fau-streamlitstreamlit-app-1zcpz1.streamlitapp.com/
+App de détection de faux billets créée via Streamlit, FastAPI et Docker.  
+Streamlit app: https://thibaultlf-oc-p10-deteter-des-fau-streamlitstreamlit-app-1zcpz1.streamlitapp.com/  
 API: https://app-detection-billet.herokuapp.com/
 
 ## Scénario du projet
 
-Vous êtes consultant Data Analyst dans une entreprise spécialisée dans la data. Votre entreprise a décroché une prestation en régie au sein de l’Organisation nationale de lutte contre le faux-monnayage (ONCFM).
+Vous êtes consultant Data Analyst dans une entreprise spécialisée dans la data. Votre entreprise a décroché une prestation en régie au sein de l’Organisation nationale de lutte contre le faux-monnayage (ONCFM).  
 Cette institution a pour objectif de mettre en place des méthodes d’identification des contrefaçons des billets en euros.
 
 ### **Livrable:**
-- Votre code en R ou Python contenant:
--- l'ensemble des traitements et des tests effectués;
--- l'application finale.
+- Votre code en R ou Python contenant:  
+1. l'ensemble des traitements et des tests effectués;  
+2. l'application finale.
 
 ## Préparation des données
 Le jeu de données est fourni par l'ONCFM (sous le nom *billets.csv*). Celui-ci comporte 6 informations géométriques sur un billet:
@@ -128,7 +128,7 @@ heroku stack:set container
 git push heroku main
 ```
 
-Pour le faire sur une de vos applications personnelles, voir la documentation [Heroku](https://devcenter.heroku.com/articles/build-docker-images-heroku-yml)
+Pour le faire sur une de vos applications personnelles, voir la documentation [Heroku](https://devcenter.heroku.com/articles/build-docker-images-heroku-yml).
 </details>
 
 <details>
