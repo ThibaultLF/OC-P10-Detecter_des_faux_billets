@@ -54,7 +54,7 @@ La *régression logistique* obtient de meilleurs résultats que *K-Means*. Nous 
 
 Etant donné que nous avons plusieurs conteneurs communiquant entre eux, un réseau est créé nommé AIservice. Pour que le tout fonctionne, le fichier *docker-compose.yml* permet d'exécuter simultanément l'API et l'APP Streamlit. Afin d'exécuter cela sur votre ordinateur, suivez les étapes suivantes:
 
-1. Vérifier que vous avez installé docker et que celui-ci est lancé sur votre ordinateur:
+1. Vérifier que vous avez installé docker et que celui-ci est lancé sur votre ordinateur:  
 Exécuter la commande dans bash/cmd:
 ```
 docker ps
