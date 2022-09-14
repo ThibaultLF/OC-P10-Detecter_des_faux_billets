@@ -16,6 +16,11 @@ API: https://app-detection-billet.herokuapp.com/
 Vous êtes consultant Data Analyst dans une entreprise spécialisée dans la data. Votre entreprise a décroché une prestation en régie au sein de l’Organisation nationale de lutte contre le faux-monnayage (ONCFM).  
 Cette institution a pour objectif de mettre en place des méthodes d’identification des contrefaçons des billets en euros.
 
+### Besoins en analyse de données:
+Nous aimerions pouvoir mettre en concurrence deux méthodes de prédiction :
+- Régression logistique classique ;
+- K-means, duquel seront utilisés les centroïdes pour réaliser la prédiction.
+
 ### **Livrable:**
 - Votre code en R ou Python contenant:  
 1. l'ensemble des traitements et des tests effectués;  
